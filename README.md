@@ -1,11 +1,30 @@
-- 👋 Hi, I’m @TheNeodev
-- 👀 I’m interested in RVC
-- 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: he/him
 
-<!---
-TheNeodev/TheNeodev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+# 🌟 Welcome to TheNeodev's GitHub! 🌟
+
+Hi there! 👋 I'm **TheNeodev**, a passionate developer with a keen interest in open-source projects, AI, machine learning, etc. I strive to create innovative, user-friendly. 
+
+---
+
+## 🔧 Technologies & Tools
+
+- **Languages:** Python
+- **Tools:** Git
+- **Cloud:** Google Colab
+
+---
+
+
+
+## 🛠️ Contributions & Open Source
+
+I'm a firm believer in the power of collaboration! You’ll find repositories where I’ve contributed to open-source projects or created tools for the developer community.
+
+---
+
+## 📈 GitHub Stats
+
+![TheNeodev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheNeodev&show_icons=true&theme=radical)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheNeodev&layout=compact&theme=radical)](https://github.com/TheNeodev)
+
