@@ -2,7 +2,7 @@
 
 # 🌟 Welcome to TheNeodev's GitHub! 🌟
 
-Hi there! 👋 I'm **TheNeodev**, a passionate developer with a keen interest in open-source projects, AI, machine learning, etc. I strive to create innovative, user-friendly. 
+Hi there! 👋 I'm **TheNeodev**, a passionate developer with a keen interest in open-source projects, AI, machine learning, etc. I strive to create innovative and user-friendly. 
 
 ---
 
