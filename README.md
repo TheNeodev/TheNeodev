@@ -3,17 +3,6 @@
 
 ![Profile Banner](https://github.com/TheNeodev/TheNeodev/blob/main/banner.png)
 
-## About Me
-
-Hello! I'm **TheNeodev**, a passionate developer with a love for creating innovative solutions and learning new technologies. I enjoy working on a variety of projects, from web development to machine learning. My goal is to contribute to the tech community and collaborate with other developers to build amazing things.
-
-- 🔭 I’m currently working on **[Project Name](https://github.com/TheNeodev/ProjectName)**.
-- 🌱 I’m currently learning **[Technology or Framework]**.
-- 👯 I’m looking to collaborate on **open source projects**.
-- 💬 Ask me about **JavaScript, Python, or Machine Learning**.
-- 📫 How to reach me: **[# Welcome to TheNeodev's GitHub Profile! 👋
-
-![Profile Banner](https://github.com/TheNeodev/TheNeodev/blob/main/banner.png)
 
 ## About Me
 
