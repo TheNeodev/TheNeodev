@@ -13,7 +13,7 @@ Hello! I'm **TheNeodev**, a passionate developer with a love for creating innova
 - 👯 I’m looking to collaborate on **open source projects**.
 - 💬 Ask me about **Python, Gradio**.
 - 📫 How to reach me: **[neoforevershog@gmail.com](mailto:neoforevershog@gmail.com)**.
-- ⚡ Fun fact: I love **[SOnic the Hedgehog wnd FPE]**.
+- ⚡ Fun fact: I love **[Sonic the Hedgehog wnd FPE]**.
 
 ## Skills
 
