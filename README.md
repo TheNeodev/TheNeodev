@@ -1,30 +1,42 @@
 
+# Welcome to TheNeodev's GitHub Profile! 👋
 
-# 🌟 Welcome to TheNeodev's GitHub! 🌟
+![Profile Banner](https://github.com/TheNeodev/TheNeodev/blob/main/banner.png)
 
-Hi there! 👋 I'm **TheNeodev**, a passionate developer with a keen interest in open-source projects, AI, machine learning, etc. I strive to create user-friendly app. 
+## About Me
 
----
+Hello! I'm **TheNeodev**, a passionate developer with a love for creating innovative solutions and learning new technologies. I enjoy working on a variety of projects, from web development to machine learning. My goal is to contribute to the tech community and collaborate with other developers to build amazing things.
 
-## 🔧 Technologies & Tools
+- 🔭 I’m currently working on **[Project Name](https://github.com/TheNeodev/ProjectName)**.
+- 🌱 I’m currently learning **[Technology or Framework]**.
+- 👯 I’m looking to collaborate on **open source projects**.
+- 💬 Ask me about **JavaScript, Python, or Machine Learning**.
+- 📫 How to reach me: **[# Welcome to TheNeodev's GitHub Profile! 👋
 
-- **Languages:** Python
-- **Tools:** Git
-- **Cloud:** Google Colab
+![Profile Banner](https://github.com/TheNeodev/TheNeodev/blob/main/banner.png)
 
----
+## About Me
+
+Hello! I'm **TheNeodev**, a passionate developer with a love for creating innovative solutions and learning new technologies. I enjoy working on a variety of projects, from web development to machine learning. My goal is to contribute to the tech community and collaborate with other developers to build amazing things.
+
+- 🔭 I’m currently working on **[rvc_inferpy](https://github.com/TheNeodev/rvc_inferpy.git)**.
+- 🌱 I’m currently learning **[RVC]**.
+- 👯 I’m looking to collaborate on **open source projects**.
+- 💬 Ask me about **Python, Gradio**.
+- 📫 How to reach me: **[neoforevershog@gmail.com](mailto:neoforevershog@gmail.com)**.
+- ⚡ Fun fact: I love **[SOnic the Hedgehog wnd FPE]**.
+
+## Skills
+
+- **Languages:** JavaScript, Python, 
+- **Tools:** Git, Docker, Kubernetes, Colab
+## GitHub Stats
+
+![TheNeodev's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheNeodev&show_icons=true&theme=radical)
 
 
 
-## 🛠️ Contributions & Open Source
 
-I'm a firm believer in the power of collaboration! You’ll find repositories where I’ve contributed to open-source projects or created tools for the developer community.
 
----
 
-## 📈 GitHub Stats
-
-![TheNeodev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheNeodev&show_icons=true&theme=radical)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheNeodev&layout=compact&theme=radical)](https://github.com/TheNeodev)
-
+Thank you for visiting my profile! Feel free to reach out if you want to collaborate on a project or just say hi. 😊
