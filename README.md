@@ -26,6 +26,8 @@ Hello! I'm **TheNeodev**, a passionate developer with a love for creating innova
 
 
 
+## :headphones: spotify playing
 
+[![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/intl-es/track/1RUzWVhiZ5TCGed5VVcSM5?si=U12wdfdsQN2UbkSRmNtVuA)
 
 Thank you for visiting my profile! Feel free to reach out if you want to collaborate on a project or just say hi. 😊
