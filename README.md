@@ -28,7 +28,7 @@ Hello! I'm **TheNeodev**, a passionate developer with a love for creating innova
 
 ## 🎧 Spotify Playing
 
-[[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31gp7lark7pplppriuzdz4de6iue&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)]]
+[![Spotify Profile](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com)
 
 
 Thank you for visiting my profile! Feel free to reach out if you want to collaborate on a project or just say hi. 😊
