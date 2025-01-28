@@ -1,14 +1,13 @@
 
 # Welcome to TheNeodev's GitHub Profile! 👋
 
-![Profile Banner](https://github.com/TheNeodev/TheNeodev/blob/main/banner.png)
 
 
 ## About Me
 
 Hello! I'm **TheNeodev**, a passionate developer with a love for creating innovative solutions and learning new technologies. I enjoy working on a variety of projects, from web development to machine learning. My goal is to contribute to the tech community and collaborate with other developers to build amazing things.
 
-- 🔭 I’m currently working on **[rvc_inferpy](https://github.com/TheNeodev/rvc_inferpy.git)**.
+- 🔭 I’m currently working on **[Advanced-RVC-Inference](https://github.com/ArkanDash/Advanced-RVC-Inference)**.
 - 🌱 I’m currently learning **[RVC]**.
 - 👯 I’m looking to collaborate on **open source projects**.
 - 💬 Ask me about **Python, Gradio**.
