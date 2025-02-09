@@ -1,11 +1,13 @@
 
-# Welcome to TheNeodev's GitHub Profile! 👋
-
+<h1 align="center">Welcome to my profile</h1>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=TheNeodev&label=Visitor&color=A020F0&style=flat" alt="TheNeodev" />
+</div>
 
 
 ## About Me
 
-Hello! I'm **TheNeodev**, a passionate developer with a love for creating innovative solutions and learning new technologies. I enjoy working on a variety of projects, from web development to machine learning. My goal is to contribute to the tech community and collaborate with other developers to build amazing things.
+Hello! I'm **TheNeodev**, a weeb programer with a love for creating innovative solutions and learning new technologies. I enjoy working on a variety of projects, from web development to machine learning. My goal is to contribute to the tech community and collaborate with other developers to build amazing things.
 
 - 🔭 I’m currently working on **[Advanced-RVC-Inference](https://github.com/ArkanDash/Advanced-RVC-Inference)**.
 - 🌱 I’m currently learning **[RVC]**.
@@ -21,10 +23,6 @@ Hello! I'm **TheNeodev**, a passionate developer with a love for creating innova
 ## GitHub Stats
 
 ![TheNeodev's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheNeodev&show_icons=true&theme=radical)
-
-
-
-
 
 
 Thank you for visiting my profile! Feel free to reach out if you want to collaborate on a project or just say hi. 😊
