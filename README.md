@@ -1,7 +1,7 @@
 
 <h1 align="center">Welcome to my profile</h1>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TheNeodev&label=Visitor&color=A020F0&style=flat" alt="TheNeodev" />
+  <img src="https://komarev.com/ghpvc/?username=TheNeodev&label=Visitor&color=FF0000&style=flat" alt="TheNeodev" />
 </div>
 
 
