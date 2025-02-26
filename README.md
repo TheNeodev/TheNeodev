@@ -22,7 +22,8 @@ Hello! I'm **TheNeodev**, a weeb programer with a love for creating innovative s
 - **Tools:** Git, Docker, Kubernetes, Colab
 ## GitHub Stats
 
-![TheNeodev's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheNeodev&show_icons=true&theme=radical)
+![TheNeodev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheNeodev&show_icons=true&theme=tokyonight)
+
 
 
 Thank you for visiting my profile! Feel free to reach out if you want to collaborate on a project or just say hi. 😊
