@@ -7,18 +7,19 @@
 
 ## About Me
 
-Hello! I'm **TheNeodev**, a weeb programer with a love for creating innovative solutions and learning new technologies. I enjoy working on a variety of projects, from web development to machine learning. My goal is to contribute to the tech community and collaborate with other developers to build amazing things.
+Hello! I'm **TheNeodev**, only an weeb programer.
 
 - 🔭 I’m currently working on **[Advanced-RVC-Inference](https://github.com/ArkanDash/Advanced-RVC-Inference)**.
-- 🌱 I’m currently learning **[RVC]**.
+- 
+- 🌱 I’m currently learning **RVC, and colab notebook**.
 - 👯 I’m looking to collaborate on **open source projects**.
 - 💬 Ask me about **Python, Gradio**.
-- 📫 How to reach me: **[neoforevershog@gmail.com](mailto:neoforevershog@gmail.com)**.
+- 📫 How to reach me: **[neoforevershog@gmail.com](mailto:neoforevershog@gmail.com) or [discord](https://discord.com/users/1314204512814235689)**.
 - ⚡ Fun fact: I love **[Sonic the Hedgehog and FPE]**.
 
 ## Skills
 
-- **Languages:** JavaScript, Python, 
+- **Languages:** -JavaScript-, Python, 
 - **Tools:** Git, Docker, Kubernetes, Colab
 ## GitHub Stats
 
