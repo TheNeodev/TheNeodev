@@ -38,4 +38,12 @@ Hello! I'm **TheNeodev**, only an weeb programer.
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)
 
 
+<!-- Some Cards -->
+<p align="center">
+  <a href="https://github.com/TheNeoDev?tab=repositories">
+    <img title="NeoDev's Github Stats" alt="NeoDev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TheNeoDev&show_icons=true&count_private=true&include_all_commits=false&custom_title=GitHub%20Stats" />
+  </a>
+</p>
+
+
 Thank you for visiting my profile! Feel free to reach out if you want to collaborate on a project or just say hi. 😊
