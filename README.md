@@ -26,7 +26,7 @@ Hello! I'm **TheNeodev**, only an weeb programer.
 
 ## GitHub Stats
 
-![TheNeodev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheNeodev&show_icons=true&theme=tokyonight)
+
 
 
 
@@ -42,6 +42,12 @@ Hello! I'm **TheNeodev**, only an weeb programer.
 <p align="center">
   <a href="https://github.com/TheNeoDev?tab=repositories">
     <img title="NeoDev's Github Stats" alt="NeoDev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TheNeoDev&show_icons=true&count_private=true&include_all_commits=false&custom_title=GitHub%20Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/TheNeoDev#user-activity-overview">
+    <img title="TheNeoDev's Github Streak" alt="TheNeoDev's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TheNeoDev" />
   </a>
 </p>
 
