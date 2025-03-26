@@ -38,10 +38,15 @@ Hello! I'm **TheNeodev**, only an weeb programer.
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)
 
 
+<h1 align="center">Hyper</h1>
+
+<br>
+
+
 <!-- Some Cards -->
 <p align="center">
   <a href="https://github.com/TheNeoDev?tab=repositories">
-    <img title="NeoDev's Github Stats" alt="NeoDev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TheNeoDev&show_icons=true&count_private=true&include_all_commits=false&custom_title=GitHub%20Stats" />
+    <img title="NeoDev's Github Stats" alt="NeoDev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TheNeoDev&show_icons=true&count_private=true&include_all_commits=false&custom_title=GitHub%20Stats&title_color=FFD700&text_color=DAA520&icon_color=FFA500&bg_color=FFFFFF" />
   </a>
 </p>
 
