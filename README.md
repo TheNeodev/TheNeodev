@@ -47,11 +47,13 @@
   </a>
 </p>
 
+---
+
 <p align="center">
   <a href="https://github.com/TheNeoDev#user-activity-overview">
-    <img title="TheNeoDev's Github Streak" alt="TheNeoDev's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TheNeoDev" />
+    <img title="TheNeoDev's Github Streak" 
+         alt="TheNeoDev's Streak" 
+         src="https://github-readme-streak-stats.herokuapp.com/?user=TheNeoDev&background=ffffff&border=ffff00&stroke=000000&ring=ffff00&fire=ffff00&currStreakLabel=ffff00" />
   </a>
 </p>
 
-
-Thank you for visiting my profile! Feel free to reach out if you want to collaborate on a project or just say hi. 😊
