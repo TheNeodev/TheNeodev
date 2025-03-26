@@ -1,5 +1,6 @@
+<h1 align="center">NeoDev</h1>
 
-<h1 align="center">Welcome to my profile</h1>
+<br>
 
 --- 
 <div align="center">
@@ -8,9 +9,7 @@
 
 ---
 
-## About Me
 
-Hello! I'm **TheNeodev**, only an weeb programer.
 
 - 🔭 I’m currently working on **[Advanced-RVC-Inference](https://github.com/ArkanDash/Advanced-RVC-Inference)**.
 - 
@@ -38,9 +37,7 @@ Hello! I'm **TheNeodev**, only an weeb programer.
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)
 
 
-<h1 align="center">Hyper</h1>
 
-<br>
 
 
 <!-- Some Cards -->
