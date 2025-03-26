@@ -51,9 +51,6 @@
 
 <p align="center">
   <a href="https://github.com/TheNeoDev#user-activity-overview">
-    <img title="TheNeoDev's Github Streak" 
-         alt="TheNeoDev's Streak" 
-         src="https://github-readme-streak-stats.herokuapp.com/?user=TheNeoDev&background=ffffff&border=ffff00&stroke=000000&ring=ffff00&fire=ffff00&currStreakLabel=ffff00" />
+    <img title="TheNeoDev's Github Streak" alt="TheNeoDev's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TheNeoDev&currStreakNum=FFFF00&sideNums=FFFF00&currStreakLabel=FFFFFF&sideLabels=FFFFFF&background=00000000&border=FFFFFF" />
   </a>
 </p>
-
