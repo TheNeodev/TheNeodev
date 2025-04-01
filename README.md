@@ -11,7 +11,7 @@
 
 
 
-- 🔭 I’m currently working on **[Advanced-RVC-Inference](https://github.com/ArkanDash/Advanced-RVC-Inference)**.
+- 🔭 I’m currently working on **[Advanced-RVC-Inference](https://github.com/ArkanDash/Advanced-RVC-Inference)** and **[NeoRVC](https://github.com/TheNeodev/NeoRVC)**.
 - 
 - 🌱 I’m currently learning **RVC, and colab notebook**.
 - 👯 I’m looking to collaborate on **open source projects**.
