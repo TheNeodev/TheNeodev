@@ -17,7 +17,7 @@
 - 👯 I’m looking to collaborate on **open source projects**.
 - 💬 Ask me about **Python, Gradio**.
 - 📫 How to reach me: **[neoforevershog@gmail.com](mailto:neoforevershog@gmail.com) or [discord](https://discord.com/users/1314204512814235689)**.
-- ⚡ Fun fact: I love **[Sonic the Hedgehog and FPE]**.
+- ⚡ Fun fact: I love **[Sonic the Hedgehog and YTP]**.
 
 ## Skills
 
