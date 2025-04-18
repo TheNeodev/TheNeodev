@@ -36,7 +36,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-db9618?logo=Gradio&logoColor=white&style=for-the-badge)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=blue)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)
+![Hugging Face](https://img.shields.io/badge/-hugging%20face-white?style=for-the-badge&logo=huggingface)
 
 
 
