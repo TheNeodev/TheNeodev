@@ -2,34 +2,42 @@
 
 <h1 align="center">NeoDev</h1>
 
-<!-- GIF 1 -->
+<!-- Visitor Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TheNeodev&label=Visitor&color=FF0000&style=flat" alt="Visitor Count" />
 </p>
 
+<!-- GIF and Some Info Side by Side -->
 <div align="center">
-  <img src="https://static.wikia.nocookie.net/fridaynightfunking/images/f/f6/RRRobertGun.gif/revision/latest?cb=20240623081331" alt="RRRobertGun GIF" width="200"/>
+
+  <!-- GIF 1 -->
+  <div style="display: inline-block; vertical-align: top; margin-right: 20px;">
+    <img src="https://static.wikia.nocookie.net/fridaynightfunking/images/f/f6/RRRobertGun.gif/revision/latest?cb=20240623081331" alt="RRRobertGun GIF" width="200"/>
+  </div>
+
+  <!-- Some Info -->
+  <div style="display: inline-block; text-align: left; max-width: 400px;">
+    <h2>📄 Some Info</h2>
+    
+    <h3>🔭 Currently Working On</h3>
+    <ul>
+      <li><b><a href="https://github.com/ArkanDash/Advanced-RVC-Inference">Advanced‑RVC‑Inference</a></b></li>
+      <li><b><a href="https://github.com/TheNeodev/NeoRVC">NeoRVC</a></b></li>
+    </ul>
+
+    <h3>💬 Ask Me About</h3>
+    <p>- Python & Gradio</p>
+
+    <h3>📫 How to Reach Me</h3>
+    <p>
+      <a href="mailto:neoforevershog@gmail.com">Email</a> |
+      <a href="https://discord.com/users/1314204512814235689">Discord</a>
+    </p>
+  </div>
+
 </div>
 
-<!-- Some Info -->
-<div align="center">
-  <h2>📄 Some Info</h2>
-  
-  <h3>🔭 Currently Working On</h3>
-  <ul>
-    <li><b><a href="https://github.com/ArkanDash/Advanced-RVC-Inference">Advanced‑RVC‑Inference</a></b></li>
-    <li><b><a href="https://github.com/TheNeodev/NeoRVC">NeoRVC</a></b></li>
-  </ul>
-
-  <h3>💬 Ask Me About</h3>
-  <p>- Python & Gradio</p>
-
-  <h3>📫 How to Reach Me</h3>
-  <p>
-    <a href="mailto:neoforevershog@gmail.com">Email</a> |
-    <a href="https://discord.com/users/1314204512814235689">Discord</a>
-  </p>
-</div>
+<br/>
 
 <!-- Strike (Streak) -->
 <div align="center">
