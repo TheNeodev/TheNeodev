@@ -7,63 +7,55 @@
 </p>
 
 <div align="center">
-  <!-- Static GIF embed (script tags aren’t allowed in READMEs) -->
-  <img src="https://media.tenor.com/images/fdba0ec8b712b4c77acb71eb67adc8a4/tenor.gif" alt="Vortex Itsme Sticker" width="200"/>
+  <img src="https://static.wikia.nocookie.net/fridaynightfunking/images/f/f6/RRRobertGun.gif/revision/latest?cb=20240623081331" alt="RRRobertGun GIF" width="200"/>
 </div>
 
----
+<div align="center">
+  <h2>🔭 I’m currently working on</h2>
+  <p>- <b><a href="https://github.com/ArkanDash/Advanced-RVC-Inference">Advanced‑RVC‑Inference</a></b></p>
+  <p>- <b><a href="https://github.com/TheNeodev/NeoRVC">NeoRVC</a></b></p>
 
-## 🔭 I’m currently working on
-- **[Advanced‑RVC‑Inference](https://github.com/ArkanDash/Advanced-RVC-Inference)**
-- **[NeoRVC](https://github.com/TheNeodev/NeoRVC)**
+  <h2>🌱 I’m currently learning</h2>
+  <p>- RVC & Google Colab notebooks</p>
 
-## 🌱 I’m currently learning
-- RVC & Google Colab notebooks
+  <h2>👯 I’m looking to collaborate on</h2>
+  <p>- Open source projects</p>
 
-## 👯 I’m looking to collaborate on
-- Open source projects
+  <h2>💬 Ask me about</h2>
+  <p>- Python & Gradio</p>
 
-## 💬 Ask me about
-- Python & Gradio
+  <h2>📫 How to reach me</h2>
+  <p>- 📧 <a href="mailto:neoforevershog@gmail.com">neoforevershog@gmail.com</a></p>
+  <p>- 💬 <a href="https://discord.com/users/1314204512814235689">Discord</a></p>
 
-## 📫 How to reach me
-- 📧 [neoforevershog@gmail.com](mailto:neoforevershog@gmail.com)  
-- 💬 [Discord](https://discord.com/users/1314204512814235689)
+  <h2>⚡ Fun fact</h2>
+  <p>I love <b>Sonic the Hedgehog</b> and <b>YouTube Poops (YTP)</b>!</p>
+</div>
 
-## ⚡ Fun fact
-I love **Sonic the Hedgehog** and **YouTube Poops (YTP)**!
-
----
-
-## 💻 Skills
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
----
-
-## 🛠 Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-db9618?style=for-the-badge&logo=gradio&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=blue)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FF9900?style=for-the-badge&logo=huggingface&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
+<div align="center">
+  <h2>📊 GitHub Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=TheNeoDev&show_icons=true&count_private=true&include_all_commits=false&custom_title=NeoDev's%20GitHub%20Stats&title_color=FFD700&text_color=DAA520&icon_color=FFA500&bg_color=FFFFFF" alt="NeoDev’s GitHub Stats" />
-</p>
+</div>
 
-<p align="center">
+<div align="center">
+  <h2>🔥 Streak</h2>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheNeoDev&currStreakNum=FFFF00&sideNums=FFFF00&currStreakLabel=FFFFFF&sideLabels=FFFFFF&background=00000000&border=FFFFFF" alt="NeoDev’s GitHub Streak" />
-</p>
+</div>
 
+<div align="center">
+  <h2>💻 Skills & 🛠 Tools</h2>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/Gradio-db9618?style=for-the-badge&logo=gradio&logoColor=white" alt="Gradio" />
+    <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=blue" alt="Google Colab" />
+    <img src="https://img.shields.io/badge/Hugging_Face-FF9900?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" />
+  </p>
+</div>
 
-----
+<div align="center">
+  <p><i>(Please someone put my character to an FNF mod, talk to me on <a href="https://discord.com/users/1314204512814235689">Discord</a> :D)</i></p>
+</div>
 
-## Un Important but i want 
-
-*(Please someone put my character to an FNF mod, talk  me on [Discord](https://discord.com/users/1314204512814235689) :D)*
+<p align="center">© TheNeoDev (2025)</p>
