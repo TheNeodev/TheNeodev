@@ -1,7 +1,6 @@
 <!-- README.md -->
 
-<h1 align="center"></h1>
-
+<h1 align="center">
 # NeoDev
 
 ## Middle School student from SMPN 3 PUNUNG INDONESIA
