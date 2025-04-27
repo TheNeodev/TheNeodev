@@ -12,10 +12,24 @@
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; border: 2px solid #FFD700; border-radius: 15px; padding: 20px; max-width: 800px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); background-color: #fff;">
 
-  <!-- GIF -->
-  <div style="flex: 1; min-width: 200px; text-align: center; margin: 10px;">
-    <img src="https://static.wikia.nocookie.net/fridaynightfunking/images/f/f6/RRRobertGun.gif/revision/latest?cb=20240623081331" alt="RRRobertGun GIF" width="200"/>
-  </div>
+-------------------------------------------------------------
+```
+<!--<a<img src="https://static.wikia.nocookie.net/fridaynightfunking/images/f/f6/RRRobertGun.gif/revision/latest?cb=20240623081331" alt="<3" width="50%" height="20%">
+</a>-->
+
+<table>
+<td>
+<p align="center"> 
+	
+[![GitHub Streak](https://streak-stats.demolab.com?user=TheNeoDev&theme=midnight-purple&locale=es&date_format=j%20M%5B%20Y%5D&card_width=250&sideNums=4FAFA0&background=FCFCE6&border=DEC69C&stroke=DEC69C&currStreakLabel=B5CA9C&dates=DEC69C&ring=4FAFA0&fire=DFAE69&currStreakNum=B5CA9C)](https://git.io/streak-stats)
+
+<img src="https://media.tenor.com/TI8pK4xA-FIAAAAj/xiao.gif" alt="<3" width="80%">
+	
+<br /> <br />
+
+</td> 
+<td>
+
 
   <!-- Some Info -->
   <div style="flex: 2; min-width: 250px; text-align: left; margin: 10px;">
