@@ -20,11 +20,11 @@
 
 ---
 
-## <p align="center">🔥 GitHub Streak & Animated Gif</p>
+## <p align="center">🔥 GitHub Streak</p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=TheNeoDev&theme=transparent&hide_border=true&short_numbers=true&background=00000000&border=00000000&ring=005eff&fire=ff0000&currStreakLabel=ffd700&currStreakNum=005eff&sideNums=ffffff&sideLabels=ffd700&dates=ffffff" alt="GitHub Streak" width="49%"/>
   <img src="https://media.tenor.com/GiG-sl9vrJ8AAAAj/i-love-you-i-love-you-baby.gif" alt="Animated Gif" width="49%"/>
+  <img src="https://streak-stats.demolab.com?user=TheNeoDev&theme=transparent&hide_border=true&short_numbers=true&background=00000000&border=00000000&ring=005eff&fire=ff0000&currStreakLabel=ffd700&currStreakNum=005eff&sideNums=ffffff&sideLabels=ffd700&dates=ffffff" alt="GitHub Streak" width="49%"/>
 </p>
 
 ---
