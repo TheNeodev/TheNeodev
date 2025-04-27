@@ -7,10 +7,10 @@
   <img src="https://komarev.com/ghpvc/?username=TheNeodev&label=Visitor&color=FF0000&style=flat" alt="Visitor Count" />
 </p>
 
-<!-- Responsive GIF + Info -->
+<!-- Profile Card -->
 <div align="center">
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; border: 2px solid #FFD700; border-radius: 15px; padding: 20px; max-width: 800px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); background-color: #fff;">
 
   <!-- GIF -->
   <div style="flex: 1; min-width: 200px; text-align: center; margin: 10px;">
@@ -43,13 +43,13 @@
 
 <br/>
 
-<!-- Strike (Streak) -->
+<!-- Streak -->
 <div align="center">
   <h2>🔥 GitHub Streak</h2>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheNeoDev&currStreakNum=FFFF00&sideNums=FFFF00&currStreakLabel=FFFFFF&sideLabels=FFFFFF&background=00000000&border=FFFFFF" alt="NeoDev’s GitHub Streak" />
 </div>
 
-<!-- Daily Inspo (GitHub Stats) -->
+<!-- GitHub Stats -->
 <div align="center">
   <h2>📊 GitHub Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=TheNeoDev&show_icons=true&count_private=true&include_all_commits=false&custom_title=NeoDev's%20GitHub%20Stats&title_color=FFD700&text_color=DAA520&icon_color=FFA500&bg_color=FFFFFF" alt="NeoDev’s GitHub Stats" />
@@ -60,7 +60,7 @@
   <p>© TheNeoDev (2025)</p>
 </div>
 
-<!-- Language And Tools -->
+<!-- Languages and Tools -->
 <div align="center">
   <h2>💻 Languages & Tools</h2>
   <p>
@@ -73,7 +73,7 @@
   </p>
 </div>
 
-<!-- Fun Personal Note -->
+<!-- Fun Note -->
 <div align="center">
   <p><i>(Please someone put my character into an FNF mod! Contact me on <a href="https://discord.com/users/1314204512814235689">Discord</a> :D)</i></p>
 </div>
