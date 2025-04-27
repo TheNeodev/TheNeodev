@@ -20,20 +20,15 @@
 
 ---
 
-## <p align="center">🔥 GitHub Streak</p>
+## <p align="center">🔥 GStuff</p>
 
 <p align="center">
-  <img src="https://media.tenor.com/GiG-sl9vrJ8AAAAj/i-love-you-i-love-you-baby.gif" alt="Animated Gif" width="49%"/>
+  
   <img src="https://streak-stats.demolab.com?user=TheNeoDev&theme=transparent&hide_border=true&short_numbers=true&background=00000000&border=00000000&ring=005eff&fire=ff0000&currStreakLabel=ffd700&currStreakNum=005eff&sideNums=ffffff&sideLabels=ffd700&dates=ffffff" alt="GitHub Streak" width="49%"/>
-</p>
-
----
-
-## <p align="center">📊 GitHub Stats</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TheNeoDev&show_icons=true&count_private=true&include_all_commits=false&custom_title=NeoDev's%20GitHub%20Stats&title_color=FFD700&text_color=DAA520&icon_color=FFA500&bg_color=FFFFFF" alt="NeoDev’s GitHub Stats"/>
+  <img src="https://media.tenor.com/GiG-sl9vrJ8AAAAj/i-love-you-i-love-you-baby.gif" alt="Animated Gif" width="49%"/>
 </p>
+
 
 ---
 
