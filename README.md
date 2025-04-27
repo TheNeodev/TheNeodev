@@ -7,18 +7,20 @@
   <img src="https://komarev.com/ghpvc/?username=TheNeodev&label=Visitor&color=FF0000&style=flat" alt="Visitor Count" />
 </p>
 
-<!-- GIF and Some Info Side by Side -->
+<!-- GIF and Some Info Side-by-Side using table -->
 <div align="center">
 
+<table>
+<tr>
   <!-- GIF 1 -->
-  <div style="display: inline-block; vertical-align: top; margin-right: 20px;">
+  <td align="center">
     <img src="https://static.wikia.nocookie.net/fridaynightfunking/images/f/f6/RRRobertGun.gif/revision/latest?cb=20240623081331" alt="RRRobertGun GIF" width="200"/>
-  </div>
+  </td>
 
   <!-- Some Info -->
-  <div style="display: inline-block; text-align: left; max-width: 400px;">
+  <td align="left" style="vertical-align: top; padding-left: 20px;">
     <h2>📄 Some Info</h2>
-    
+
     <h3>🔭 Currently Working On</h3>
     <ul>
       <li><b><a href="https://github.com/ArkanDash/Advanced-RVC-Inference">Advanced‑RVC‑Inference</a></b></li>
@@ -33,7 +35,9 @@
       <a href="mailto:neoforevershog@gmail.com">Email</a> |
       <a href="https://discord.com/users/1314204512814235689">Discord</a>
     </p>
-  </div>
+  </td>
+</tr>
+</table>
 
 </div>
 
