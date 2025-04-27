@@ -1,6 +1,6 @@
 # NeoDev
 
-## Middle School Student from SMPN 3 PUNUNG, Indonesia
+## <p align="center">Middle School Student from SMPN 3 PUNUNG, Indonesia</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TheNeodev&label=Visitors&color=FF0000&style=flat" alt="Visitor Count" />
@@ -8,11 +8,11 @@
 
 ---
 
-## 📄 Some Info
+## <p align="center">📄 Some Info</p>
 
 - **Working On**:
   - [Advanced‑RVC‑Inference](https://github.com/ArkanDash/Advanced-RVC-Inference)
-  - [NeoRVC](https://github.com/TheNeodev/NeoRVC)
+  - [NeoRVC](https://github.com/TheNeoDev/NeoRVC)
 - **Ask Me About**: Python & Gradio
 - **Reach Me**:
   - [Email](mailto:neoforevershog@gmail.com) |
@@ -20,21 +20,16 @@
 
 ---
 
-## 🔥 GitHub Streak
+## <p align="center">🔥 GitHub Streak & Animated Gif</p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=TheNeoDev&theme=transparent&hide_border=true&short_numbers=true&background=00000000&border=00000000&ring=005eff&fire=ff0000&currStreakLabel=ffd700&currStreakNum=005eff&sideNums=ffffff&sideLabels=ffd700&dates=ffffff" alt="GitHub Streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://media.tenor.com/GiG-sl9vrJ8AAAAj/i-love-you-i-love-you-baby.gif" alt="Animated Gif" width="300px"/>
+  <img src="https://streak-stats.demolab.com?user=TheNeoDev&theme=transparent&hide_border=true&short_numbers=true&background=00000000&border=00000000&ring=005eff&fire=ff0000&currStreakLabel=ffd700&currStreakNum=005eff&sideNums=ffffff&sideLabels=ffd700&dates=ffffff" alt="GitHub Streak" width="49%"/>
+  <img src="https://media.tenor.com/GiG-sl9vrJ8AAAAj/i-love-you-i-love-you-baby.gif" alt="Animated Gif" width="49%"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## <p align="center">📊 GitHub Stats</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TheNeoDev&show_icons=true&count_private=true&include_all_commits=false&custom_title=NeoDev's%20GitHub%20Stats&title_color=FFD700&text_color=DAA520&icon_color=FFA500&bg_color=FFFFFF" alt="NeoDev’s GitHub Stats"/>
@@ -42,7 +37,7 @@
 
 ---
 
-## 💻 Languages & Tools
+## <p align="center">💻 Languages & Tools</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -55,7 +50,7 @@
 
 ---
 
-## 🎵 Fun Note
+## <p align="center">🎵 Fun Note</p>
 
 <p align="center"><i>(Someone please put my character into an FNF mod! Contact me on <a href="https://discord.com/users/1314204512814235689">Discord</a> :D)</i></p>
 
