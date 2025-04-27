@@ -13,19 +13,18 @@
 
 <!-- Some Info -->
 <div align="center">
-  <h2>🔭 Currently Working On</h2>
+  <h2>📄 Some Info</h2>
+  
+  <h3>🔭 Currently Working On</h3>
   <ul>
     <li><b><a href="https://github.com/ArkanDash/Advanced-RVC-Inference">Advanced‑RVC‑Inference</a></b></li>
     <li><b><a href="https://github.com/TheNeodev/NeoRVC">NeoRVC</a></b></li>
   </ul>
 
-  <h2>🌱 Currently Learning</h2>
-  <p>- RVC & Google Colab notebooks</p>
-
-  <h2>💬 Ask Me About</h2>
+  <h3>💬 Ask Me About</h3>
   <p>- Python & Gradio</p>
 
-  <h2>📫 How to Reach Me</h2>
+  <h3>📫 How to Reach Me</h3>
   <p>
     <a href="mailto:neoforevershog@gmail.com">Email</a> |
     <a href="https://discord.com/users/1314204512814235689">Discord</a>
