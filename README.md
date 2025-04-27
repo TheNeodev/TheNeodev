@@ -1,4 +1,4 @@
-# NeoDev
+# <p align="center">NeoDev</p>
 
 ## <p align="center">Middle School Student from SMPN 3 PUNUNG, Indonesia</p>
 
