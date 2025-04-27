@@ -1,10 +1,12 @@
 <!-- README.md -->
 
-<h1 align="center">NeoDev</h1>
+<h1 align="center"></h1>
 
+# NeoDev
 
 ## Middle School student from SMPN 3 PUNUNG INDONESIA
 
+</div>
 <!-- Visitor Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TheNeodev&label=Visitors&color=FF0000&style=flat" alt="Visitor Count" />
