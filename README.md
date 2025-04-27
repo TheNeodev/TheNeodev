@@ -20,19 +20,13 @@
   <!-- Some Info -->
   <div style="flex: 2; min-width: 250px; text-align: left; margin: 10px;">
     <h2>📄 Some Info</h2>
-
-    <h3>🔭 Currently Working On</h3>
-    <ul>
-      <li><b><a href="https://github.com/ArkanDash/Advanced-RVC-Inference">Advanced‑RVC‑Inference</a></b></li>
-      <li><b><a href="https://github.com/TheNeodev/NeoRVC">NeoRVC</a></b></li>
-    </ul>
-
-    <h3>💬 Ask Me About</h3>
-    <p>- Python & Gradio</p>
-
-    <h3>📫 How to Reach Me</h3>
-    <p>
-      <a href="mailto:neoforevershog@gmail.com">Email</a> |
+    <p><strong>Working On:</strong> 
+      <a href="https://github.com/ArkanDash/Advanced-RVC-Inference">Advanced‑RVC‑Inference</a>, 
+      <a href="https://github.com/TheNeodev/NeoRVC">NeoRVC</a>
+    </p>
+    <p><strong>Ask Me About:</strong> Python & Gradio</p>
+    <p><strong>Reach Me:</strong> 
+      <a href="mailto:neoforevershog@gmail.com">Email</a> | 
       <a href="https://discord.com/users/1314204512814235689">Discord</a>
     </p>
   </div>
