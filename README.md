@@ -1,94 +1,64 @@
-<!-- README.md -->
+# NeoDev
 
-<h1 align="center">
+## Middle School Student from SMPN 3 PUNUNG, Indonesia
 
-  # NeoDev
-  
-  ## Middle School student from SMPN 3 PUNUNG INDONESIA
-
-</div>
-<!-- Visitor Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TheNeodev&label=Visitors&color=FF0000&style=flat" alt="Visitor Count" />
 </p>
 
-<!-- Profile Card -->
-<div align="center">
+---
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; border: 2px solid #FFD700; border-radius: 15px; padding: 20px; max-width: 800px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); background-color: #fff;">
+## 📄 Some Info
 
-<table>
-<tr>
-<td align="center" style="width:50%;">
+- **Working On**:
+  - [Advanced‑RVC‑Inference](https://github.com/ArkanDash/Advanced-RVC-Inference)
+  - [NeoRVC](https://github.com/TheNeodev/NeoRVC)
+- **Ask Me About**: Python & Gradio
+- **Reach Me**:
+  - [Email](mailto:neoforevershog@gmail.com) |
+  - [Discord](https://discord.com/users/1314204512814235689)
 
-<!-- GitHub Streak -->
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=TheNeoDev&theme=transparent&hide_border=true&short_numbers=true&background=00000000&border=00000000&ring=005eff&fire=ff0000&currStreakLabel=ffd700&currStreakNum=005eff&sideNums=ffffff&sideLabels=ffd700&dates=ffffff" alt="GitHub Streak"/>
-</a>
+---
 
-<br/><br/>
+## 🔥 GitHub Streak
 
-<!-- Animated Gif -->
-<img src="https://media.tenor.com/GiG-sl9vrJ8AAAAj/i-love-you-i-love-you-baby.gif" alt="Animated" width="80%"/>
-
-</td>
-<td align="center" style="width:50%;">
-
-<!-- Some Info -->
-<h2>📄 Some Info</h2>
-<p><strong>Working On:</strong><br/>
-  <a href="https://github.com/ArkanDash/Advanced-RVC-Inference">Advanced‑RVC‑Inference</a>,<br/>
-  <a href="https://github.com/TheNeodev/NeoRVC">NeoRVC</a>
-</p>
-<p><strong>Ask Me About:</strong> Python & Gradio</p>
-<p><strong>Reach Me:</strong><br/>
-  <a href="mailto:neoforevershog@gmail.com">Email</a> |
-  <a href="https://discord.com/users/1314204512814235689">Discord</a>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=TheNeoDev&theme=transparent&hide_border=true&short_numbers=true&background=00000000&border=00000000&ring=005eff&fire=ff0000&currStreakLabel=ffd700&currStreakNum=005eff&sideNums=ffffff&sideLabels=ffd700&dates=ffffff" alt="GitHub Streak"/>
+  </a>
 </p>
 
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://media.tenor.com/GiG-sl9vrJ8AAAAj/i-love-you-i-love-you-baby.gif" alt="Animated Gif" width="300px"/>
+</p>
 
-</div>
+---
 
-</div>
+## 📊 GitHub Stats
 
-<br/>
-
-
-
-<!-- GitHub Stats Section -->
-<div align="center">
-  <h2>📊 GitHub Stats</h2>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TheNeoDev&show_icons=true&count_private=true&include_all_commits=false&custom_title=NeoDev's%20GitHub%20Stats&title_color=FFD700&text_color=DAA520&icon_color=FFA500&bg_color=FFFFFF" alt="NeoDev’s GitHub Stats"/>
-</div>
+</p>
 
-<br/>
+---
 
-<!-- Languages and Tools -->
-<div align="center">
-  <h2>💻 Languages & Tools</h2>
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    <img src="https://img.shields.io/badge/Gradio-db9618?style=for-the-badge&logo=gradio&logoColor=white" alt="Gradio"/>
-    <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=blue" alt="Google Colab"/>
-    <img src="https://img.shields.io/badge/Hugging_Face-FF9900?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face"/>
-  </p>
-</div>
+## 💻 Languages & Tools
 
-<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Gradio-db9618?style=for-the-badge&logo=gradio&logoColor=white" alt="Gradio"/>
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=blue" alt="Google Colab"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FF9900?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face"/>
+</p>
 
-<!-- Fun Note -->
-<div align="center">
-  <p><i>(Someone please put my character into an FNF mod! Contact me on <a href="https://discord.com/users/1314204512814235689">Discord</a> :D)</i></p>
-</div>
+---
 
-<br/>
+## 🎵 Fun Note
 
-<!-- Footer -->
-<div align="center">
-  <p>© TheNeoDev (2025)</p>
-</div>
+<p align="center"><i>(Someone please put my character into an FNF mod! Contact me on <a href="https://discord.com/users/1314204512814235689">Discord</a> :D)</i></p>
+
+---
+
+<p align="center">© TheNeoDev (2025)</p>
