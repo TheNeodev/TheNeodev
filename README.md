@@ -18,8 +18,7 @@
 
 <!-- GitHub Streak -->
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=TheNeoDev&theme=midnight-purple&locale=es&date_format=j%20M%5B%20Y%5D&card_width=250&sideNums=0078F0&background=FFFFFF&border=FFD700&stroke=FFD700&currStreakLabel=00BFFF&dates=FF0000&ring=FFD700&fire=FF8C00&currStreakNum=00BFFF
-" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=TheNeoDev&theme=midnight-purple&locale=es&date_format=j%20M%5B%20Y%5D&card_width=250&sideNums=0F52BA&background=FFFFFF&border=FFD700&stroke=FFD700&currStreakLabel=FF0000&dates=000000&ring=FFD700&fire=FF0000&currStreakNum=0F52BA" alt="GitHub Streak"/>
 </a>
 
 <br/><br/>
@@ -52,13 +51,7 @@
 
 <br/>
 
-<!-- GitHub Streak Section -->
-<div align="center">
-  <h2>🔥 GitHub Streak</h2>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheNeoDev&currStreakNum=FFFF00&sideNums=FFFF00&currStreakLabel=FFFFFF&sideLabels=FFFFFF&background=00000000&border=FFFFFF" alt="NeoDev’s GitHub Streak"/>
-</div>
 
-<br/>
 
 <!-- GitHub Stats Section -->
 <div align="center">
