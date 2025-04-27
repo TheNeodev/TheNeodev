@@ -1,9 +1,10 @@
 <!-- README.md -->
 
 <h1 align="center">
-# NeoDev
 
-## Middle School student from SMPN 3 PUNUNG INDONESIA
+  # NeoDev
+  
+  ## Middle School student from SMPN 3 PUNUNG INDONESIA
 
 </div>
 <!-- Visitor Counter -->
