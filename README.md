@@ -7,18 +7,18 @@
   <img src="https://komarev.com/ghpvc/?username=TheNeodev&label=Visitor&color=FF0000&style=flat" alt="Visitor Count" />
 </p>
 
-<!-- GIF and Some Info Side-by-Side using table -->
+<!-- Responsive GIF + Info -->
 <div align="center">
 
-<table>
-<tr>
-  <!-- GIF 1 -->
-  <td align="center">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start;">
+
+  <!-- GIF -->
+  <div style="flex: 1; min-width: 200px; text-align: center; margin: 10px;">
     <img src="https://static.wikia.nocookie.net/fridaynightfunking/images/f/f6/RRRobertGun.gif/revision/latest?cb=20240623081331" alt="RRRobertGun GIF" width="200"/>
-  </td>
+  </div>
 
   <!-- Some Info -->
-  <td align="left" style="vertical-align: top; padding-left: 20px;">
+  <div style="flex: 2; min-width: 250px; text-align: left; margin: 10px;">
     <h2>📄 Some Info</h2>
 
     <h3>🔭 Currently Working On</h3>
@@ -35,9 +35,9 @@
       <a href="mailto:neoforevershog@gmail.com">Email</a> |
       <a href="https://discord.com/users/1314204512814235689">Discord</a>
     </p>
-  </td>
-</tr>
-</table>
+  </div>
+
+</div>
 
 </div>
 
