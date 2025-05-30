@@ -14,7 +14,7 @@
 
 - 🚀 **Currently Building**:
   - [Advanced‑RVC‑Inference](https://github.com/ArkanDash/Advanced-RVC-Inference)
-  - [NeoRVC](https://github.com/TheNeoDev/NeoRVC)
+  - [extension_AICoverGen]([https://github.com/TheNeoDev/NeoRVC](https://github.com/unchCrew/extension_AICoverGen.git))
 - 🐍 **Ask Me About**: Python, Gradio, and fun AI projects!
 - 🤝 **Let's Connect**:
   - [Email](mailto:neoforevershog@gmail.com) |
