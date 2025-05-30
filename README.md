@@ -1,6 +1,8 @@
-# <p align="center">NeoDev</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+NeoDev!;Aspiring+Dev+%F0%9F%94%A5;Python+Enthusiast+%F0%9F%90%8D;Loves+Open+Source+%E2%9C%A8" alt="Typing SVG" />
+</p>
 
-## <p align="center">Middle School Student from SMPN 3 PUNUNG, Indonesia</p>
+<h2 align="center">Middle School Student | SMPN 3 PUNUNG, Indonesia 🇮🇩</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TheNeodev&label=Visitors&color=FF0000&style=flat" alt="Visitor Count" />
@@ -8,28 +10,27 @@
 
 ---
 
-## <p align="center">📄 Some Info</p>
+## <p align="center">📄 About Me</p>
 
-- **Working On**:
+- 🚀 **Currently Building**:
   - [Advanced‑RVC‑Inference](https://github.com/ArkanDash/Advanced-RVC-Inference)
   - [NeoRVC](https://github.com/TheNeoDev/NeoRVC)
-- **Ask Me About**: Python & Gradio
-- **Reach Me**:
+- 🐍 **Ask Me About**: Python, Gradio, and fun AI projects!
+- 🤝 **Let's Connect**:
   - [Email](mailto:neoforevershog@gmail.com) |
   - [Discord](https://discord.com/users/1314204512814235689)
+- 🌱 **Learning**: Deep Learning, Open Source Collaboration
 
 ---
 
-## <p align="center">🔥 GStuff</p>
+## <p align="center">🔥 GitHub Stats & Fun</p>
 
 <p align="center">
-  
   <img src="https://streak-stats.demolab.com?user=TheNeoDev&theme=transparent&hide_border=true&short_numbers=true&background=00000000&border=00000000&ring=005eff&fire=ff0000&currStreakLabel=ffd700&currStreakNum=005eff&sideNums=ffffff&sideLabels=ffd700&dates=ffffff" alt="GitHub Streak" width="49%"/>
   <img src="https://media.tenor.com/GiG-sl9vrJ8AAAAj/i-love-you-i-love-you-baby.gif" alt="Animated Gif" width="49%"/>
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=TheNeoDev&show_icons=true&count_private=true&include_all_commits=false&custom_title=NeoDev's%20GitHub%20Stats&title_color=FFD700&text_color=DAA520&icon_color=FFA500&bg_color=FFFFFF" alt="NeoDev’s GitHub Stats"/>
-  
 </p>
-
 
 ---
 
@@ -48,7 +49,7 @@
 
 ## <p align="center">🎵 Fun Note</p>
 
-<p align="center"><i>(Someone please put my character into an FNF mod! Contact me on <a href="https://discord.com/users/1314204512814235689">Discord</a> :D)</i></p>
+<p align="center"><i>Dreaming of seeing my character in an FNF mod! Want to collab? DM me on <a href="https://discord.com/users/1314204512814235689">Discord</a> 😄</i></p>
 
 ---
 
